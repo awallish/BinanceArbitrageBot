@@ -1,4 +1,3 @@
-
 import decimal
 import hmac
 import hashlib
