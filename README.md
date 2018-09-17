@@ -26,12 +26,12 @@ All trades are in one of the two following forms:
     
     
   ## Notice:  
-  If you don't have any BNB in your account to decrease fees you will want to change FEE in arbitrageBot.py from 0.9995 to 0.999.  Doing so will likely cause the bot to find much fewer trades so I recommend loading your accound with a small amount of BNB.
+  If you don't have any BNB in your account to decrease fees you will want to change FEE in arbitrageBot.py from 0.9995 to 0.999.  Doing so will likely cause the bot to find much fewer trades so I recommend loading your account with a small amount of BNB.
   
   
   
 ## Disclaimer:  
-Use this bot at your own risk.  I take no responsibility for any losses you may incur as a result of this bot.  Losses and gains will largely be determined by response time, which will take into accound how fast your machine opperates and how close you are to 
+Use this bot at your own risk.  I take no responsibility for any losses you may incur as a result of this bot.  Losses and gains will largely be determined by response time, which will take into account how fast your machine operates and how close you are to 
 binance's API servers. 
 
 ## Acknowledgements
